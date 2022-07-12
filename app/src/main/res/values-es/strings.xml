@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_name">ingrese su nombre</string>
+    <string name="enter_password">introducir la contraseña</string>
+    <string name="login">acceso</string>
+    <string name="cancel">cancelar</string>
+</resources>
